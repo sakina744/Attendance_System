@@ -1,2 +1,2 @@
 # Attendance_System
-A simple attendance system using python and opencv
+A simple attendance system using python 
